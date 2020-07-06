@@ -116,7 +116,7 @@ element.style {
     background-size: cover;
 }
 #portNav ul li a:hover {
-    background-color: antiquewhite;
+    color: black;
     height: auto;
     font-size: large;
 }
