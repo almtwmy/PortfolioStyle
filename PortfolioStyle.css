@@ -126,3 +126,8 @@ element.style {
     height: auto;
     font-size: large;
 }
+#portNav {
+    border: 2px dashed antiquewhite;
+    border-top: none;
+    border-left: none;
+}
