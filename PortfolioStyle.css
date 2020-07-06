@@ -27,11 +27,9 @@ element.style {
     color: white;
 }
 #portBody {
-    background-color: #FFFFFF;
-    border: 1px solid #3D3D3D;
+    
     border-bottom: none;
     border-top: none;
-    background-image: url(https://i.ibb.co/QHkxqL5/footer-background-01.jpg);
     background-size: cover;
 }
 #portText h3.section-title {
