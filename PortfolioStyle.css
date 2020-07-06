@@ -1,0 +1,105 @@
+#portHeader, #portFooter {
+    color: #e2e2e2;
+    border: 1px solid #3D3D3D;
+    background-image: url(https://i.ibb.co/wZk4sDf/Portfolio-design-2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#portHeader h1, #portHeader p {
+    font-weight: normal;
+    margin: 0.8em 0;
+    font-family: initial;
+}
+#portHeader h1, #portHeader p {
+    font-weight: 1000;
+    margin: 0.8em 0;
+    font-family: initial;
+    text-align: center;
+}
+element.style {
+    float: right;
+    margin-left: 10px;
+}
+.portSection {
+    /* border: dashed; */
+    font-size: 120%;
+    line-height: 160%;
+    margin-bottom: 30px;
+    text-align: justify;
+    padding: 5px;
+    margin: 5px;
+    border: black solid;
+    background-color: antiquewhite;
+}
+#portText h2, #portText h3 {
+    color: white;
+}
+#portBody {
+    background-color: #FFFFFF;
+    border: 1px solid #3D3D3D;
+    border-bottom: none;
+    border-top: none;
+    background-image: url(https://i.ibb.co/QHkxqL5/footer-background-01.jpg);
+    background-size: cover;
+}
+#portText h3.section-title {
+    font-size: 180%;
+    font-weight: bolder;
+    margin: 3px 0;
+    display: block;
+    color: black;
+    font-family: initial;
+}
+.portSection {
+    /* border: dashed; */
+    font-size: 120%;
+    line-height: 160%;
+    margin-bottom: 30px;
+    text-align: justify;
+    padding: 5px;
+    margin: 5px;
+    border: black solid;
+    background-color: antiquewhite;
+    font-family: serif;
+}
+#portNav ul li a {
+    color: white;
+    height: auto;
+    font-size: large;
+}
+@media only screen and (max-width: 1024px) and (min-width: 0px)
+.portNavMobileButton:after {
+    content: "\2039";
+    font-size: 180%;
+    position: absolute;
+    top: 0px;
+    left: 5px;
+    color: black;
+}
+@media only screen and (max-width: 1024px) and (min-width: 0px)
+.portNavMobileButton {
+    position: absolute;
+    right: -25px;
+    top: 13px;
+    font-size: 180%;
+    color: black;
+    padding: 4px 6px 8px 2px;
+    background-color: wheat;
+    border-radius: 0 12px 12px 0;
+    line-height: 1;
+    border: 1px solid black;
+    border-width: 1px 1px 1px 0;
+    -moz-transition: opacity 0.5s ease-in-out;
+    -webkit-transition: opacity 0.5s ease-in-out;
+    transition: opacity 0.5s ease-in-out;
+    -moz-transition: left 300ms cubic-bezier(0.420, 0.000, 1.000, 1.000);
+    -webkit-transition: left 300ms cubic-bezier(0.420, 0.000, 1.000, 1.000);
+    transition: left 300ms cubic-bezier(0.420, 0.000, 1.000, 1.000);
+    z-index: 9000;
+    width: 10px;
+    height: 30px;
+    padding-left: 8px;
+    padding-top: 8px;
+    visibility: visible;
+    opacity: 0.5;
+}
