@@ -112,3 +112,15 @@ element.style {
     border-top: none;
     border-left: none;
 }
+body {
+    background-image: url(https://i.ibb.co/jVwJYNp/office-desk-decor-wallpaper-3554x1999.jpg);
+    background-repeat: no-repeat;
+    /* background-position: 5% 90%; */
+    background-attachment: fixed;
+    /* background-color: #145065; */
+    min-height: 100%;
+    display: flex;
+    justify-content: center;
+    /* color: #0f323e; */
+    background-size: cover;
+}
