@@ -111,13 +111,12 @@ element.style {
 #portNav {
     width: 230px;
     float: left;
-    border: 1px solid;
     /* background-color: #fff; */
     background-image: url(https://i.ibb.co/QHkxqL5/footer-background-01.jpg);
     background-size: cover;
 }
 #portNav ul li a:hover {
-    color: antiquewhite;
+    background-color: antiquewhite;
     height: auto;
     font-size: large;
 }
