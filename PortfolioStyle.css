@@ -19,17 +19,7 @@
 element.style {
     float: right;
     margin-left: 10px;
-}
-.portSection {
-    /* border: dashed; */
-    font-size: 120%;
-    line-height: 160%;
-    margin-bottom: 30px;
-    text-align: justify;
-    padding: 5px;
-    margin: 5px;
-    border: black solid;
-    background-color: antiquewhite;
+    position: relative;
 }
 #portText h2, #portText h3 {
     color: white;
@@ -61,11 +51,6 @@ element.style {
     border: black solid;
     background-color: antiquewhite;
     font-family: serif;
-}
-#portNav ul li a {
-    color: white;
-    height: auto;
-    font-size: large;
 }
 @media only screen and (max-width: 1024px) and (min-width: 0px)
 .portNavMobileButton:after {
@@ -102,11 +87,6 @@ element.style {
     padding-top: 8px;
     visibility: visible;
     opacity: 0.5;
-}
-#portNav {
-    border: 2px dashed antiquewhite;
-    border-top: none;
-    border-left: none;
 }
 #portNav {
     width: 230px;
