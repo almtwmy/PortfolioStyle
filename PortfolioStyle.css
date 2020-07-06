@@ -17,10 +17,9 @@
     text-align: center;
 }
 element.style {
-    text-align: right;
+    width: 20%;
     float: right;
-    height: 10%;
-    width: 25%;
+    position: relative;
     margin-left: 20px;
 }
 #portText h2, #portText h3 {
