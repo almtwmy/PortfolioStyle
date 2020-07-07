@@ -4,6 +4,8 @@
     background-image: url(https://i.ibb.co/wZk4sDf/Portfolio-design-2.png);
     background-size: cover;
     background-repeat: no-repeat;
+    
+
 }
 #portHeader h1, #portHeader p {
     font-weight: normal;
@@ -47,7 +49,7 @@ element.style {
     padding: 5px;
     margin: 5px;
     border: black solid;
-    background-color: antiquewhite;
+    background-color: lightyellow;
     font-family: serif;
 }
 @media only screen and (max-width: 1024px) and (min-width: 0px)
