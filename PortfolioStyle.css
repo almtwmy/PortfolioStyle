@@ -124,3 +124,28 @@ body {
   /* color: #0f323e; */
   background-size: cover;
 }
+.artifactViewBody,
+.artifactAttachmentFolderBody {
+  padding-top: 45px;
+  background-image: url(https://cdn1.bbcode0.com/uploads/2020/7/6/5d8eea6…-full.jpg);
+}
+@media only screen and (max-width: 1024px) and (min-width: 0px) .artifactWrap,
+  .folderContentView {
+  font-size: 16px;
+  background-color: rgb(0, 0, 0, 0.7);
+  color: white;
+}
+#portBody h2,
+#portBody h3,
+.artifactWrap h2,
+.folderContentView h2,
+.portfolioArtifactTable th {
+  color: #3c9f8f;
+}
+.folderIndexEntryTraverseUp,
+.folderIndexEntryFile,
+.attachmentEntryFile,
+.folderIndexEntryFolder,
+.attachmentEntryFolder {
+  color: white;
+}
