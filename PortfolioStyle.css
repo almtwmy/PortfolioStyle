@@ -6,6 +6,9 @@
   background-position-x: Center;
   background-repeat: no-repeat;
   background-color: darkcyan;
+  text-align: right;
+  color: black;
+  font-family: fantasy;
 }
 #portHeader h1,
 #portHeader p {
